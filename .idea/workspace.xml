@@ -67,6 +67,7 @@
     "Application.LeftRotateArrByOnePlace.executor": "Run",
     "Application.LeftRotateByD.executor": "Run",
     "Application.LinearSearch.executor": "Run",
+    "Application.PairSwap.executor": "Run",
     "Application.RemoveDup.executor": "Run",
     "Application.ReverseNumber.executor": "Run",
     "Application.UnionSortedArray.executor": "Run",
