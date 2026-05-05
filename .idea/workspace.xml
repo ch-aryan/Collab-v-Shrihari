@@ -56,6 +56,8 @@
     "Application.CheckStringPalindrome.executor": "Run",
     "Application.DeadLockThread.executor": "Run",
     "Application.Demo.executor": "Run",
+    "Application.Dummy.executor": "Run",
+    "Application.IntersectionSortedArrays.executor": "Run",
     "Application.LargestElement.executor": "Run",
     "Application.LargestSmallest.executor": "Run",
     "Application.LaunchArr2.executor": "Run",
