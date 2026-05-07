@@ -72,6 +72,7 @@
     "Application.MaximumConsecutiveOnes.executor": "Run",
     "Application.MissingNumber.executor": "Run",
     "Application.MissingNumberPattern2.executor": "Run",
+    "Application.NumAppearOnceOtherTwice.executor": "Run",
     "Application.PairSwap.executor": "Run",
     "Application.Practice.executor": "Run",
     "Application.RemoveDup.executor": "Run",
