@@ -1,4 +1,4 @@
-package DSAProblems.BasicArrays.MediumArrays.TwoSum;
+package DSAProblems.BasicArrays.MediumArrays.TwoSum.MediumLevelProblem.TwoSum;
 
 public class BruteTwoSum {
     public static int[] findingTargetIndexes(int arr[],int target){

@@ -1,4 +1,4 @@
-package DSAProblems.BasicArrays.MediumArrays.TwoSum;
+package DSAProblems.BasicArrays.MediumArrays.TwoSum.MediumLevelProblem.TwoSum;
 
 import java.util.HashMap;
 
