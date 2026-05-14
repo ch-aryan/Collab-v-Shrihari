@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b4357d67-2bae-433f-a61a-9d84af46c9b9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DSAProblems/BasicArrays/MediumArrays/TwoSum/BetterTwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAProblems/BasicArrays/MediumArrays/TwoSum/MediumLevelProblem/TwoSum/BetterTwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DSAProblems/BasicArrays/MediumArrays/TwoSum/BruteTwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAProblems/BasicArrays/MediumArrays/TwoSum/MediumLevelProblem/TwoSum/BruteTwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DSAProblems/BasicArrays/MediumArrays/TwoSum/OptimalTwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAProblems/BasicArrays/MediumArrays/TwoSum/MediumLevelProblem/TwoSum/OptimalTwoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +81,7 @@
     "Application.MissingNumberPattern2.executor": "Run",
     "Application.NextPermutation.executor": "Run",
     "Application.NumAppearOnceOtherTwice.executor": "Run",
+    "Application.OptimalLeadersInAnArray.executor": "Run",
     "Application.OptimalRearrangeElementsBySign.executor": "Run",
     "Application.PairSwap.executor": "Run",
     "Application.Practice.executor": "Run",
