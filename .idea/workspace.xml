@@ -93,6 +93,7 @@
     "Application.ReverseNumber.executor": "Run",
     "Application.School.executor": "Run",
     "Application.Sort012Optimal.executor": "Run",
+    "Application.SpiralMatrix.executor": "Run",
     "Application.Student.executor": "Run",
     "Application.UnionSortedArray.executor": "Run",
     "Application.checkAmstrong.executor": "Run",
