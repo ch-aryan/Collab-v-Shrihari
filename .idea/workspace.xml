@@ -44,6 +44,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AnagramCheck.executor": "Run",
     "Application.BasicRecursion.executor": "Run",
     "Application.BasicRecursion1.executor": "Run",
     "Application.BasicRecursion2.executor": "Run",
@@ -63,6 +64,7 @@
     "Application.CheckArraySorted.executor": "Debug",
     "Application.CheckPalindrome.executor": "Run",
     "Application.CheckStringPalindrome.executor": "Run",
+    "Application.ConsecutiveSequence.executor": "Run",
     "Application.CountSubArraySumK.executor": "Run",
     "Application.DeadLockThread.executor": "Run",
     "Application.Demo.executor": "Run",
