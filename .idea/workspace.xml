@@ -74,6 +74,7 @@
     "Application.LargestSmallest.executor": "Run",
     "Application.Launch.executor": "Run",
     "Application.LaunchArr2.executor": "Run",
+    "Application.LaunchMap.executor": "Run",
     "Application.LaunchThread1.executor": "Run",
     "Application.LaunchThread2.executor": "Run",
     "Application.LaunchThread3.executor": "Run",
